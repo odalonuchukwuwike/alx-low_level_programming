@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - A program that uses printf function to output a string
- * Return: 0 (Using the printf function to print strings to our output console)
+ *main - A program that uses sizeof to print out the sizes of a float, an int, a long int and so on
+ * Return: 0
  */
 
 int main(void)
