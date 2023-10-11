@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- *main - A program that uses sizeof to print out the sizes of a float, an int, a long int
-*/
+ * main - A program that uses sizeof to print out the sizes of a float, an int, a long int
+ * Return: 0
+ */
+
 int main(void)
 {
 	char a; int b; long int c; long long int d; float f;
